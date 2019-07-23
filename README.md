@@ -9,4 +9,5 @@ Below image is my MVVM folder design
 
 Here my project out put screen shot
 
-![Simulator Screen Shot - iPhone Xʀ - 2019-07-23 at 11 36 15](https://user-images.githubusercontent.com/32384820/61688025-822d5800-ad41-11e9-9860-c3e28b83548f.png)
+![Simulator Screen Shot - iPhone Xʀ - 2019-07-23 at 11 36 15](https://user-images.githubusercontent.com/32384820/61688483-c40ace00-ad42-11e9-818b-bffb20998b4f.png)
+
